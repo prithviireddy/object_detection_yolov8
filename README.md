@@ -1,6 +1,3 @@
-Here’s a **clean, beginner-friendly, GitHub-ready `README.md`** that starts with CUDA + PyTorch installation, environment setup, requirements, and then the project steps.
-
-Balanced, simple, and clear.
 
 ---
 
